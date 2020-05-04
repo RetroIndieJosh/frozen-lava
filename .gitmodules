@@ -1,0 +1,3 @@
+[submodule "Assets/jmtools"]
+	path = Assets/jmtools
+	url = git@bitbucket.org:joshua_mclean/jmtools.git
